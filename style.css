@@ -1,0 +1,26 @@
+body
+{
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0px;
+    background-image: url(kino.jpg);
+}
+#top
+{
+   color: white;
+   text-align: center;
+}
+#formularz
+{
+font-size: large;
+text-align: center;
+color: rgb(70, 8, 32);
+clear: both;
+}
+#filmy
+{
+float: left;
+text-align: center;   
+color: white; 
+}

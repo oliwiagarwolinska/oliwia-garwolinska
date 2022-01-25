@@ -1,0 +1,24 @@
+*
+{
+    background-image: url(forest.jpg);
+}
+#opis
+{
+    width: 25%;
+    height: 50%;
+    text-align: center;
+    padding-top: 5px;
+    color: black;
+    font-size: 25px;
+    
+}
+#obsada
+{
+    width: 25%;
+    height: 50%;
+    text-align: center;
+    font-size: 16px;
+    padding-top: 5px;
+    color: black;
+   
+}

@@ -1,0 +1,33 @@
+*
+{
+   background-color: gray;
+
+}
+
+
+
+#opis
+{
+    width: 30%;
+    height: 50%;
+    font-size: 23px;
+    font-family: cursive;
+    text-align: center;
+    padding-top: 10px;
+    
+}
+#obrazek
+{
+    width: auto;
+    float: right;
+    
+}
+
+#obsada
+{
+    width: 30%;
+    height: auto;
+    text-align: center;
+    font-size: 16px;
+    font-family: fantasy;
+}
